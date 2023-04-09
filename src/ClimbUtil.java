@@ -14,10 +14,10 @@ import java.io.IOException;
 public class ClimbUtil {
     public static void main(String[] args) {
         //        爬所有
-        //climb("qq_45774645");
+        //climb("qq_37085158");
 //        爬单个
        // climbOne("unique_perfect","109380996");
-        climbDetailByUrl("https://blog.csdn.net/weixin_46195957/article/details/114419205");
+        climbDetailByUrl("https://blog.csdn.net/qq_37085158/article/details/126821933");
     }
 
     public static void climb(String userName) {
