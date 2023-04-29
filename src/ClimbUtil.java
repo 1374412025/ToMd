@@ -17,7 +17,7 @@ public class ClimbUtil {
         //climb("qq_37085158");
 //        爬单个
        // climbOne("unique_perfect","109380996");
-        climbDetailByUrl("https://blog.csdn.net/qq_37085158/article/details/126821933");
+        climbDetailByUrl("https://blog.csdn.net/m0_45432976/article/details/122020571");
     }
 
     public static void climb(String userName) {
